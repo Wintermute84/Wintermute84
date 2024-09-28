@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wintermute84&theme=tokyonight" alt="mystreak"/>
 
+<img src="https://profile-counter.glitch.me/{wintermute84}/count.svg" alt="wintermute84 :: Visitor's Count" />
