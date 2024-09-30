@@ -11,7 +11,7 @@ Wintermute84/Wintermute84 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://myreadme.vercel.app/api/embed/wintermute84?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wintermute84&theme=tokyonight" alt="mystreak"/>
 
