@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Wintermute84
-- 👀 I’m interested in achieving mediocre things :) 
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m interested in web dev stuff :) 
+- 🌱 I’m currently learning javascript frameworks
 - 💞️ I’m looking to collaborate on Full Stack Web Projects
 - 📫 How to reach me neuromancerr83@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Tame Impala is just one dude! 
+- ⚡ Fun fact: There is none! 
 
 <!---
 Wintermute84/Wintermute84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
