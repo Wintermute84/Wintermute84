@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full Stack Web Projects
 - 📫 How to reach me neuromancerr83@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There is none! 
+- ⚡ Fun fact: Sometimes I Sit and Think, and Sometimes I Just Sit.
 
 <!---
 Wintermute84/Wintermute84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
